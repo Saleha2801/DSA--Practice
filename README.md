@@ -1,2 +1,2 @@
 # DSA--Practice
-A collection of all the DSA problems I have solved.
+This repository is dedicated to documenting and organizing all the DSA problems I have solved during my learning journey.
